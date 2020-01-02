@@ -1,4 +1,4 @@
-hello jenkins
-this is jitendra
-Welcome to ethans.
+Hello jenkins
+This is JITENDRA
+Welcome to Ethans.
 .......
