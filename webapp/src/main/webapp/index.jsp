@@ -1,4 +1,3 @@
-Hello jenkins
-This is JITENDRA NIGHOT
-Welcome to JENKINS Deployer Practice.
-.......
+Hello JENKINS
+This is JITENDRA
+Welcome to JENKINS PIPELINE.
