@@ -1,4 +1,2 @@
 Hello JENKINS \n
-This is JITENDRA \n
-Welcome to JENKINS PIPELINE \n.
-This is .war deployment on tomcat server !!!!
+This is Demmo using Ansible-->Tomcat war copy
