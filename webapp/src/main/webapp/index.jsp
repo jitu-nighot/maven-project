@@ -1,2 +1,3 @@
-Hello JENKINS \n
-This is Demmo using Jenkins --> Tomcat war copy
+<h1> Hello JENKINS \n
+This is Demmo copying war from Jenkins --> Ansible
+  and then Copy war file from Ansible --> Tomcat </h1>
